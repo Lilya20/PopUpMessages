@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopUpMessages</string>
+    <string name="logo">Пук-с</string>
+    <string name="button1">Жмяк</string>
+    <string name="button2">Нажми на меня</string>
+    <string name="button3">Кнопочка</string>
+</resources>
